@@ -1,0 +1,2 @@
+# Consigli del prof
+Molto spesso gli algoritmi greedy sono quelli che danno i risultati migliori. Alla fine l'algoritmo evolutivo ottiene qualcosa ma non troppo. Quindi una buona soluzione sarebbe progettare un bel greedy fatto bene, per esempio con un <strong>indice di isolamento</strong> per ogni città. Questo indice dice per ogni città quanto è isolata e aumenta col tempo (se ci allontaniamo e togliamo i nodi vicini) per hé tanto prima o po dovremo passarci.
