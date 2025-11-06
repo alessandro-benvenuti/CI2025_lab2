@@ -1,6 +1,6 @@
 # Computational Intelligence Lab 02
 
-In this laboratiry we are trying to find an optimal solution to the Travelling Sales Person problem using an Evolutionary Algorithm. In order to sdo so we used the following data structures:
+In this laboratory we are trying to find an optimal solution to the Travelling Sales Person problem using an Evolutionary Algorithm. In order to so so we used the following data structures:
 - <strong>solution</strong>: a named tuple associated with the list of nodes in same order the sales person is visiting them (genotype) and the cost of that path (weight).
 - <strong>population</strong>: a list of individuals, each one associated with genotype and weight.
 - <strong>offsprings</strong>: the list of offsprings for each new generation
