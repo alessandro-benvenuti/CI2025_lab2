@@ -109,7 +109,7 @@ def plot_solution_matplotlib(solution_genotype, problem, cities=CITIES, coords=C
                  ha='center', va='center',
                  bbox=dict(facecolor='white', alpha=0.7, edgecolor='none', pad=1), zorder=4)
 
-    plt.title("TSP solution (lon, lat) — Italy borders shown if available")
+    plt.title("TSP solution (lon, lat)")
     plt.xlabel("Longitude")
     plt.ylabel("Latitude")
     plt.grid(True)
