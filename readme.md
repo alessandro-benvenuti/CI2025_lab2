@@ -51,3 +51,7 @@ The Genetic Algorithm follows a modern approach, indeed at each generation, for 
 | problem_r2_200.npy | -8998.33 |
 | problem_r2_500.npy | -22611.86 |
 | problem_r2_1000.npy | -45553.85 |
+
+
+### Notes
+The code for plotting the solution of the test problem on the map has been written thanks to the help of copilot.
